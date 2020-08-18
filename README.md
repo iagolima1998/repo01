@@ -1,5 +1,10 @@
-# Repository test
-This is my first repository
+# Iago Lima
 
-# Repositório novo
-Este é o meu primeiro respositório
+## Formação acadêmia
++ TADS Uninove (2020-01 - )
++ Informática (2015-2016)
+
+## Experiência
++ Trabalho no SPFC desde 2014-atualemente
+
+
